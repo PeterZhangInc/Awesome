@@ -6,3 +6,5 @@
 * [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 * [Lodash](https://lodash.com)
 * [CSS-TRICKS](https://css-tricks.com/)
+* [[NodeJS] 优缺点及适用场景讨论](https://www.cnblogs.com/sysuys/p/3460614.html)
+* [NodeJS框架 egg](https://eggjs.org/zh-cn/)

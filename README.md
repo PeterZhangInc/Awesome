@@ -8,3 +8,4 @@
 * [CSS-TRICKS](https://css-tricks.com/)
 * [[NodeJS] 优缺点及适用场景讨论](https://www.cnblogs.com/sysuys/p/3460614.html)
 * [NodeJS框架 egg](https://eggjs.org/zh-cn/)
+* [学习ES2015](https://babeljs.cn/learn-es2015/)
